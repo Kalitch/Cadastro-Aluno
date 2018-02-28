@@ -10,4 +10,4 @@
   </ul>
 </p>
 <p>Pré-visualização:</p>
-<img src="https://imgur.com/a/j7P8d.png" alt="Calculadora executando">
+<img src="https://i.imgur.com/dMwhbnp.png" alt="Calculadora executando">
